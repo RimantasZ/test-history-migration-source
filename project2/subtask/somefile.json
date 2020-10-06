@@ -1,4 +1,8 @@
 {
     "name" : "me",
-    "surname" : "you"
+    "surname" : "you",
+    "her" : "her",
+    "they" [
+        "a1", "a2", "a3"
+    ]
 }
